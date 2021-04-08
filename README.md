@@ -1,24 +1,8 @@
-# README
+# 【DMM WEBCAMP】Ruby on Rails
+DMM WEBCAMPのRailsの基礎学習で作りました。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 補足
+幾度となくコミットメッセージを間違えております。
+Railsは3章なので[Finish]3-nとすべきだったのですが、最初に間違えて1-4にしてしまい、なぜかそれから2-nにしてしまっています。
+質問できない期間のことで、調べてもいまいち有効な直し方がわからなかったので、そのままになっております。
+見づらいリポジトリになってしまい申し訳ありません。
